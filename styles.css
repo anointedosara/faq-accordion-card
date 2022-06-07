@@ -7,9 +7,7 @@ body {
     margin: 0;
     padding: 0 30px;
     background: linear-gradient(to bottom, hsl(273, 75%, 66%), hsl(240, 73%, 65%));
-    background-repeat: no-repeat;
     font-family: 'Kumbh Sans', sans-serif;
-    height: max-content;
 }
 
 .div1 {
@@ -143,9 +141,7 @@ body {
         margin: 0;
         padding: 150px 30px 50px 30px;
         background: linear-gradient(to bottom, hsl(273, 75%, 66%), hsl(240, 73%, 65%));
-        background-repeat: no-repeat;
         font-family: 'Kumbh Sans', sans-serif;
-        height: 100%;
     }
     .div1 {
         background: white;
@@ -225,9 +221,7 @@ body {
         margin: 0;
         padding: 50px 20px 50px 20px;
         background: linear-gradient(to bottom, hsl(273, 75%, 66%), hsl(240, 73%, 65%));
-        background-repeat: no-repeat;
         font-family: 'Kumbh Sans', sans-serif;
-        height: max-content;
     }
     .div1 {
         background: white;
